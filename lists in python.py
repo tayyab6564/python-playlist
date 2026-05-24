@@ -16,7 +16,9 @@ print(list3[2]) #output: 3.14
 list1[0]=10
 print(list1) #output: [10, 2, 3, 4, 5]  
 list2[1]="grape"
-
+print(list2) #output: ['apple', 'grape', 'cherry']
+list3[2]=3.14159
+print(list3) #output: [1, 'apple', 3.14159, True]
 # List slicing
 print(list1[1:4]) #output: [2, 3, 4]
 
