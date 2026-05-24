@@ -22,6 +22,6 @@ print(list3) #output: [1, 'apple', 3.14159, True]
 # List slicing
 print(list1[1:4]) #output: [2, 3, 4]
 
-# List methods
+#    List methods
 list1.append(6)
 print(list1) #output: [10, 2, 3, 4, 5, 6]
