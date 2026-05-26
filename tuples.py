@@ -1,6 +1,6 @@
 #tuples are also similar to lists, but they are immutable which means you cannot change their content after they are created.
 tup = ()
-tup1 = (1,)
+tup1 = (1,)  #<-- tup1 = (1) will be considered as an integer, not a tuple. To create a tuple with a single element, you need to include a comma after the element.
 tup2 = (1, 2, 3, 4, 5)
 tup3 = ("apple", "banana", "cherry")
 print(tup) #output: ()
@@ -48,4 +48,4 @@ print(tup7[2][1]) #output: 4
 
 #             tuple methods
 print(tup2.count(1)) #output: 1
-print(tup2.index(3)) #output: 2
+print(tup2.index(3)) #output: 2  (index of first occurrence of 3 in tup2)
