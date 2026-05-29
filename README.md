@@ -1,22 +1,21 @@
-<<<<<<< HEAD
 # python-playlist
 
 This is my python git repository, that includes python practices and all topics to learn python.
 
-1. hello world
-=======
-1. hello world
-2. sum of 2 numbers
-3. concatenation
-4. even or odd
-5. accurance of a world/alphabate
-6. find greatest number
-7. indexing
-8. slicing
-9. built-in functions
-10. print length of a string
-11. list
-12. list practice
-13. tuple
-14. 
->>>>>>> 9acceba9bba6cbad07ee253477186a2c498d2db7
+1. Hello world
+2. Sum of 2 numbers
+3. Concatenation
+4. Even or odd
+5. Accurance of a world/alphabate
+6. Find greatest number
+7. Indexing
+8. Slicing
+9. Built-in functions
+10. Print length of a string
+11. List
+12. List practices
+13. Tuple
+14. Tuple practices
+15. Dictionary in python
+16. Nested Dictionary
+17. 
